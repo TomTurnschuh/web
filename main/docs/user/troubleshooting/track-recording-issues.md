@@ -88,6 +88,7 @@ The following Power settings have been successfully tested under Android 9, 10, 
 - (8) **Auto restart (at set times)** = OFF (Has no effect here.)
 - (9) **Optimize Battery Usage** (Under Android *Settings / Apps / OsmAnd / Battery* or *Settings / Apps / 3-dots / Special access / Optimize battery usage / All / OsmAnd*) = Exempt OsmAnd from battery optimization (very advisable, although not necessary if the app is user-started frequently).
 - (10) **Allow background activity** = ON for OsmAnd under *Apps / OsmAnd / Battery* for Android 11
+- (11) **Allow notifications** = ON (Under *App Info / Notifications*)
 
 Some of these settings interact, so be accurate. The best search for the above settings by name (with and without the expressions in parentheses). Depending on your version of Android, they may be scattered over these various *Android Settings screens*:
 
